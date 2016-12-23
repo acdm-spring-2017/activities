@@ -2,7 +2,7 @@
 
 ## Git and Github (Target: 12 January 2017)
 
-  A. Literacies
+### A. Literacies
 
   - Basics of command line git: initialization, add, clone, commit, pull, push, status
 
@@ -14,7 +14,7 @@
 
   - Basic markdown, README.md
 
-  B. Lessons and tutorials
+### B. Lessons and tutorials
 
   - Codecademy: https://www.codecademy.com/learn/learn-git
 
@@ -24,7 +24,7 @@
 
 ## HTML and CSS (Target: 19 January 2017)
 
-  A. Literacies
+### A. Literacies
 
   - Document Object Model (DOM)
 
@@ -44,7 +44,7 @@
 
   - Basic Bootstrap 3 shortcuts
 
-  B. Lessons and tutorials
+### B. Lessons and tutorials
 
   - Codecademy: https://www.codecademy.com/learn/web
 
@@ -54,9 +54,9 @@
 
   - Boostrap: http://getbootstrap.com/getting-started/
 
- ## Javascript and JSON (24 January 2017)
+## Javascript and JSON (24 January 2017)
 
-  A. Literacies
+### A. Literacies
 
   - What is javascript, and when is it usually used?
 
@@ -66,7 +66,7 @@
 
   - How to link to Bootstrap 3 javascript dependency
 
-  B. Lessons and tutorials
+### B. Lessons and tutorials
 
   - Lynda javascript: https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers-2016-Q3-REVISION/461841-2.html?org=pitt.edu.old 
 
