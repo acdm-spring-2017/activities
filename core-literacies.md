@@ -1,6 +1,6 @@
 # Core literacies: lessons, tutorials, target dates
 
-  1. Git and Github (Target: 12 January 2017)
+## Git and Github (Target: 12 January 2017)
 
   A. Literacies
 
@@ -22,7 +22,7 @@
 
   - Github pages: https://pages.github.com/
 
-  2. HTML and CSS (Target: 19 January 2017)
+## HTML and CSS (Target: 19 January 2017)
 
   A. Literacies
 
@@ -54,7 +54,7 @@
 
   - Boostrap: http://getbootstrap.com/getting-started/
 
-  3. Javascript and JSON (24 January 2017)
+ ## Javascript and JSON (24 January 2017)
 
   A. Literacies
 
