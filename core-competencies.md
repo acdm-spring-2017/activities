@@ -1,14 +1,14 @@
-# Core literacies: lessons, tutorials, target dates
+# Core competencies: lessons, tutorials, target dates
 
 ## Git and Github (Target: 12 January 2017)
 
-### A. Literacies
+### A. competencies
 
   - Basics of command line git: initialization, add, clone, commit, pull, push, status
 
   - Checkout, branch, merge, fork, pull request, backtrack, .gitignore
 
-  - Github issues, web interface 
+  - Github issues, web interface
 
   - Github pages: how to host a static HTML on Github
 
@@ -24,7 +24,7 @@
 
 ## HTML and CSS (Target: 19 January 2017)
 
-### A. Literacies
+### A. competencies
 
   - Document Object Model (DOM)
 
@@ -34,7 +34,7 @@
 
   - HTML attributes and values: class, id, href, rel, src, style
 
-  - External, Internal, and Inline CSS 
+  - External, Internal, and Inline CSS
 
   - Selecting by class and id
 
@@ -56,7 +56,7 @@
 
 ## Javascript and JSON (24 January 2017)
 
-### A. Literacies
+### A. competencies
 
   - What is javascript, and when is it usually used?
 
@@ -68,7 +68,7 @@
 
 ### B. Lessons and tutorials
 
-  - Lynda javascript: https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers-2016-Q3-REVISION/461841-2.html?org=pitt.edu.old 
+  - Lynda javascript: https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers-2016-Q3-REVISION/461841-2.html?org=pitt.edu.old
 
   - Lynda JSON: https://www.lynda.com/JavaScript-tutorials/JavaScript-JSON/114901-2.html?org=pitt.edu.old
 
