@@ -1,5 +1,6 @@
-# Links to Instructor Lectures and Demos
+# Links to Instructor Lectures, Demos, and Overviews
 
+## Git and Github:https://acdm-spring-2017.github.io/git
 
 ## Titanic data
 
@@ -17,4 +18,8 @@
 
 ## Authorship attribution, Shakespeare
 
+## Jupyter Notebooks
 
+## Pandas
+
+## Bokeh

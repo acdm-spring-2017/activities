@@ -40,7 +40,7 @@
 
   - Conditionals vs. Try/Except
 
-  - Matplotlib, Seaborn
+  - Matplotlib, Seaborn, Bokeh
 
   - Basic text processing (tokenization, removing punctuation, removing stopwords, counting occurrences)
 
