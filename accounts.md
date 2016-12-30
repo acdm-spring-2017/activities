@@ -31,7 +31,7 @@
 
 ## Google Form  
 
-1. Go to and fill out your Github, Zotero, and hypothes.is usernames
+1. Go to https://goo.gl/forms/0AvUzUsHtvmL9TcX2 and fill out your Github, Zotero, and hypothes.is usernames
 
 ## Join Groups
 
