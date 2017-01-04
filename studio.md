@@ -1,16 +1,8 @@
-# About the Course's Studio Component
+# About the Course's Studio Component (In progress. More here soon.)
 
 ## Summary
 
 ## Specific Studio Days on the Calendar
-
-1/12:
-2/2:
-2/14:
-2/23:
-3/2:
-3/16:
-3/23:
 
 ## Professor Conferencing
 
