@@ -52,7 +52,7 @@
 
   - Lynda CSS: https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html?org=pitt.edu.old  
 
-  - Boostrap: http://getbootstrap.com/getting-started/
+  - Bootstrap: http://getbootstrap.com/getting-started/
 
 ## Javascript and JSON (24 January 2017)
 
