@@ -28,7 +28,7 @@
 
   - Document Object Model (DOM)
 
-  - Required HTML elements: <html>, <head>, <body>
+  - Required HTML elements: `<html>, <head>, <body>`
 
   - Common HTML tags: `<div>,<h1>-<h5>,<p>,<span>,<table>,<tr>,<td>,<ul>,<ol>,<li>,<img>,<a>,<style>,<script>,<link>`
 
