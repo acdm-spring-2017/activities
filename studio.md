@@ -6,13 +6,13 @@ On any given day, studio time is a free working period in which you may choose t
 
 1. Get ahead on tutorials or review old tutorials.
 2. Brainstorm lightning talk ideas.
-3. Looks for cool data visualizations or infographics online and see if you know how to replicate one of them. If you can't find any cool ones, send me a topic and I'll help you look.
+3. Look for cool data visualizations or infographics online and see if you know how to replicate one of them. If you can't find any cool ones, send me a topic and I'll help you look.
 4. Work on one of your viz projects.
 5. Catch up on course readings.
 6. Work on gathering, wrangling, or creating your dataset for project 2.
-7. try to do something you perceive to be very, very hard, with nio expectation that you will succeed. You might surprise yourself.
+7. Try to do something you perceive to be very, very hard, with no expectation that you will succeed. You might surprise yourself.
 8. Make a branch of your project and try to "creatively break" it in some way. See what you can learn.
-Write a long email letting me know that you are frustrated and that you need more guidance to feel engaged or challenged. (Wait until the next day to send it in case you are in a bad mood and say some things you later decide to word more carefully.)
+9. Write a long email letting me know that you are frustrated and that you need more guidance to feel engaged or challenged. (Wait until the next day to send it in case you are in a bad mood and say some things you later decide to word more carefully.)
 
 ## Specific Studio Days on the Calendar
 
