@@ -38,7 +38,7 @@ Bergan, Stephanie: 4
 
 Lam, Binh (Cindy): 4
 
-## One-on_one Conferences During Studio sessions
+## One-on-One Conferences During Studio sessions
 
 ### Tuesday, February 14, 2017
 
