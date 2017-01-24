@@ -1,5 +1,7 @@
 # Zotero Activities
 
+Our goal for the first Zotero activity is to take a tour of the software and spend some time learning how it works. More than anything, I want to demonstrate, by example, why it is a very appealing tool to use for research and self-guided study.
+
 Use library.pitt.edu to search for peer reviewed articles or scholarly books about the following subjects:
 
 - Code and coding
