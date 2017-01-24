@@ -1,5 +1,7 @@
 # Zotero Activities
 
+## Zotero 1
+
 Our goal for the first Zotero activity is to take a tour of the software and spend some time learning how it works. More than anything, I want to demonstrate, by example, why it is a very appealing tool to use for research and self-guided study.
 
 Use library.pitt.edu to search for peer reviewed articles or scholarly books about the following subjects:
@@ -19,4 +21,6 @@ Each time you find one, do the following:
 
 When we are done, I will do a demo of how to convert a collection into a bibliography.
 
-Hint: Certain databases and sites, like jstor and Google books work better with Zotero importing. But be careful: many sites will import bad or incomplete data! If Zotero can't find a bibliographical item on a page, it will import the website itself as the source you are trying to cite.
+Hint 1: Certain databases and sites, like jstor and Google books work better with Zotero importing. But be careful: many sites will import bad or incomplete data! If Zotero can't find a bibliographical item on a page, it will import the website itself as the source you are trying to cite.
+
+Hint 2: Try to find and add at least one outside source discussed in "The Role of Deliberate Practice in the Acquisition of Expert Performance" or "Educating Programmers"
