@@ -6,7 +6,7 @@ Use library.pitt.edu to search for peer reviewed articles or scholarly books abo
 - Self-guided learning, deliberate practice
 - Data driven journalism and design
 
-Try to find at least six items worth sharing (or looking at more closely). Using Zotero can be a bit tricky, so I will demo the basic skills and walk aropund the room providing support. As we go, if you have a very strong sense of how to use the tool, I'll ask you to check in with your neighbors and offer help, if needed.
+Try to find at least six items worth sharing (or looking at more closely). Using Zotero can be a bit tricky, so I will demo the basic skills and walk around the room providing support. As we go, if you have a very strong sense of how to use the tool, I'll ask you to check in with your neighbors and offer help, if needed.
 
 Each time you find one, do the following:
 
@@ -17,4 +17,4 @@ Each time you find one, do the following:
 
 When we are done, I will do a demo of how to convert a collection into a bibliography.
 
-Hint: Certain databases and sites, like jstor and Google books work better with Zotero importing. But be careful: many sites will import bad or incomplete data! If Zotero can't find a bibliographical item on a page, it will import the website itself as the source you are trying to cite. 
+Hint: Certain databases and sites, like jstor and Google books work better with Zotero importing. But be careful: many sites will import bad or incomplete data! If Zotero can't find a bibliographical item on a page, it will import the website itself as the source you are trying to cite.
