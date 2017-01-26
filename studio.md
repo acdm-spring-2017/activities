@@ -16,8 +16,9 @@ On any given day, studio time is a free working period in which you may choose t
 
 ## Specific Studio Days on the Calendar
 
-## One-on-One Conferences During Studio sessions
+Coming Soon
 
+## One-on-One Conferences During Studio sessions
 ### Tuesday, February 14, 2017
 
 Chew, Emery: 2
@@ -95,10 +96,6 @@ Lu, April: 3
 Reed, Amanda: 3
 
 Emery, Everett: 3
-
-## Professor Conferencing
-
-This area will list names and dates for individual conferences. I will set these in class on Tuesday, January 17. See https://github.com/acdm-spring-2017/activities/blob/master/memberships.md
 
 ## Etiquette
 
