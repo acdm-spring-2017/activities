@@ -24,5 +24,16 @@
 - Make at least five annotations. We will discuss them when everyone has finished. 
 
 ### Annotation 2:
+- For this annotation assignment, I want to highlight two very helpful sandboxing tools that go very well together: 
+stackoverflow.com and jsfiddle.net. Stackoverflow (part of stackexchange) is a discussion board where developers can go to post questions or errors, 
+"a community of 6.6 million programmers, just like you, helping each other." jsfiddle is a html, css, and javascript practice area. You can set up a bit of code, run it, and see the result. 
+You can also save fiddles and fork off of other people's fiddles to build on others' work. Stackoverflow and jsfiddle work hand in hand because someone will often ask a question on stack, and then
+someone else will post an answer with a link to a working fiddle. 
+- In other words, these sites are worth learning about! Use hypothes.is to browse around on stackoverflow.com. if you don't know what to look for, you can always browse the latest posts under html, css, or javascript. 
+- Also, try Googling things like "centered div jsfiddle" to see if you can find useful prototypes. 
+- If you like, sign up for stackoverflow and jsfiddle accounts
+- Annotate some sites with simple comments like "wow!" or "useful" or "maybe use this for a project."  
+- make sure your annotations go in acdm-spring-2017
+
 ### Annotation 3: 
 ### Annotation 4: 
