@@ -2,6 +2,11 @@
 
 ## Data exploration activity: Due Thursday, Feb. 2, 2017
 
+Choose three datasets from below that you find interesting and fill out the following Google form with as much information as you can for three of the datasets. Choose datasets that ou find intersting or think you would like to use for class assignments.
+
+Google Form Link: https://goo.gl/forms/dhhN5CzuW1xlT7EN2
+
+
 http://norvig.com/ngrams/
 
 http://www.unodc.org/unodc/en/data-and-analysis/statistics/crime.html
