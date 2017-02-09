@@ -22,11 +22,8 @@
 
   - Representing network data (source, target method)
 
-### B. resources
 
-  -
-
-## Python (Target: March 2, 2017)
+## Python 3 (Target: March 2, 2017)
 
 ### A. competencies
 
@@ -52,7 +49,9 @@
 
 ### B. resources
 
-  -
+  - Python 3 Essential Training, lynda.pitt.edu
+
+  - https://www.catacamp.com, Intro to Python for Data Science
 
 ## Visualization (Target: March 30, 2017)
 
