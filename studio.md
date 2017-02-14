@@ -81,7 +81,7 @@ Lam, Binh (Cindy): 4
 
 Mercer, Jahari: 1
 
-### Thursday, March 23, 2017
+### Tuesday, March 21, 2017
 
 Puskaric, Maya: 1
 
