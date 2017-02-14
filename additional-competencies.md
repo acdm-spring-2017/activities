@@ -57,6 +57,8 @@
 
   - Matplotlib Tutorial Series: https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
 
+  - http://pandas.pydata.org/pandas-docs/stable/tutorials.html
+
   - If time: NumPy Data Science Essential Training, lynda.pitt.edu
 
   - Also if time: Pandas for Data Science, lynda.pitt.edu
