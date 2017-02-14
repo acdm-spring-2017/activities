@@ -19,7 +19,7 @@ On any given day, studio time is a free working period in which you may choose t
 Coming Soon
 
 ## One-on-One Conferences During Studio sessions
-### Tuesday, February 14, 2017
+### Thursday, February 16, 2017
 
 Chew, Emery: 2
 
