@@ -51,7 +51,15 @@
 
   - Python 3 Essential Training, lynda.pitt.edu
 
-  - https://www.catacamp.com, Intro to Python for Data Science
+  - https://www.datacamp.com, Intro to Python for Data Science
+
+  - Matplotlib Crash Course https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/
+
+  - Matplotlib Tutorial Series: https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF
+
+  - If time: NumPy Data Science Essential Training, lynda.pitt.edu
+
+  - Also if time: Pandas for Data Science, lynda.pitt.edu
 
 ## Visualization (Target: March 30, 2017)
 
