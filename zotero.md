@@ -24,3 +24,11 @@ When we are done, I will do a demo of how to convert a collection into a bibliog
 Hint 1: Certain databases and sites, like jstor and Google books work better with Zotero importing. But be careful: many sites will import bad or incomplete data! If Zotero can't find a bibliographical item on a page, it will import the website itself as the source you are trying to cite.
 
 Hint 2: Try to find and add at least one outside source discussed in "The Role of Deliberate Practice in the Acquisition of Expert Performance" or "Educating Programmers"
+
+## Zotero 2
+
+- Create a new collection (folder) in <em>your</em> Zotero library
+- Name this collection yourlastname_Lanier
+- Fill it with sources that relate to topics Lanier discusses (or sources he cites)
+- Some topics to look up might include rewarding or punishing "network effects" or "siren server" or Google's profit model or why people use craigslist 
+- When you have finished collecting some interesting-looking sources, drag the entire collection from your library into the acdm-spring-2017 group library
