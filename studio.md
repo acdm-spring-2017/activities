@@ -16,13 +16,21 @@ On any given day, studio time is a free working period in which you may choose t
 
 ## Specific Studio Days on the Calendar
 
-- March 16: Team members should move so they are sitting next to each other. Each team member should share one example of something that you have found confusing or difficult. Get advice or assistance from team members. Be prepared to report to the rest of class what you talked about. For membership list, see https://github.com/acdm-spring-2017/activities/blob/master/memberships.md
+### March 16:
 
-- March 21: Team members should move so they are sitting next to each other. Each team member should share one example of something that you have have done that you are proud of or like enough that you are trying to build on it for the Synthesis 2 assignment.
+- Team members should move so they are sitting next to each other. Each team member should share one example of something that you have found confusing or difficult. Get advice or assistance from team members. Be prepared to report to the rest of class what you talked about. For membership list, see https://github.com/acdm-spring-2017/activities/blob/master/memberships.md
 
-- March 28: Team activity, begin brainstorming project ideas.
+### March 21:
 
-- April 4: Work session for team project. In addition to normal activities, do a quick scan of every team member to make sure everyone is on the same page about what your team is doing, and what everyone's individual responsibilities are.
+- Team members should move so they are sitting next to each other. Each team member should share one example of something that you have have done that you are proud of or like enough that you are trying to build on it for the Synthesis 2 assignment.
+
+### March 28:
+
+- Team activity, begin brainstorming project ideas.
+
+### April 4:
+
+- Work session for team project. In addition to normal activities, do a quick scan of every team member to make sure everyone is on the same page about what your team is doing, and what everyone's individual responsibilities are.
 
 
 ## Etiquette
