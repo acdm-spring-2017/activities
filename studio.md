@@ -16,86 +16,14 @@ On any given day, studio time is a free working period in which you may choose t
 
 ## Specific Studio Days on the Calendar
 
-Coming Soon
+- March 16: Team members should move so they are sitting next to each other. Each team member should share one example of something that you have found confusing or difficult. Get advice or assistance from team members. Be prepared to report to the rest of class what you talked about. For membership list, see https://github.com/acdm-spring-2017/activities/blob/master/memberships.md
 
-## One-on-One Conferences During Studio sessions
-### Thursday, February 16, 2017
+- March 21: Team members should move so they are sitting next to each other. Each team member should share one example of something that you have have done that you are proud of or like enough that you are trying to build on it for the Synthesis 2 assignment.
 
-Chew, Emery: 2
+- March 28: Team activity, begin brainstorming project ideas.
 
-Knapp, Paige: 2
+- April 4: Work session for team project. In addition to normal activities, do a quick scan of every team member to make sure everyone is on the same page about what your team is doing, and what everyone's individual responsibilities are.
 
-O'Connell, Michael: 2
-
-Marzina, Alexa: 2
-
-Osborne, Katelyn: 4
-
-Walker, Ruby: 4
-
-### Thursday, February 23, 2017
-
-Komaravolu, Srutha: 4
-
-Bergan, Stephanie: 4
-
-Lam, Binh (Cindy): 4
-
-Mercer, Jahari: 1
-
-Puskaric, Maya: 1
-
-Mentecki, Kat: 1
-
-Tang, Jia Yin: 1
-
-### Thursday, March 2, 2017
-
-Stryker, Alex: 3
-
-Lu, April: 3
-
-Reed, Amanda: 3
-
-Emery, Everett: 3
-
-Chew, Emery: 2
-
-Knapp, Paige: 2
-
-O'Connell, Michael: 2
-
-### Thursday, March 16, 2017
-
-Marzina, Alexa: 2
-
-Osborne, Katelyn: 4
-
-Walker, Ruby: 4
-
-Komaravolu, Srutha: 4
-
-Bergan, Stephanie: 4
-
-Lam, Binh (Cindy): 4
-
-Mercer, Jahari: 1
-
-### Tuesday, March 21, 2017
-
-Puskaric, Maya: 1
-
-Mentecki, Kat: 1
-
-Tang, Jia Yin: 1
-
-Stryker, Alex: 3
-
-Lu, April: 3
-
-Reed, Amanda: 3
-
-Emery, Everett: 3
 
 ## Etiquette
 
