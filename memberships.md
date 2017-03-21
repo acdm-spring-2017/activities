@@ -28,6 +28,8 @@ Reed, Amanda: 3
 
 Emery, Everett: 3
 
+Tim: 3
+
 Osborne, Katelyn: 4
 
 Walker, Ruby: 4
@@ -37,6 +39,8 @@ Komaravolu, Srutha: 4
 Bergan, Stephanie: 4
 
 Lam, Binh (Cindy): 4
+
+Connor: 4
 
 ## One-on-One Conferences During Studio sessions
 
