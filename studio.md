@@ -1,4 +1,4 @@
-# About the Course's Studio Component (In progress. More here soon.)
+# About the Course's Studio Component
 
 ## Summary
 
